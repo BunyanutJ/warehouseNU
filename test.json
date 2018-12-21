@@ -1,0 +1,49 @@
+{
+    "inventory":[
+                    {
+                        "detail":{
+                                    "category":"fresh",
+                                    "name":"apple",
+                                    "length":"10M",
+                                    "width":"5M",
+                                    "height":"2M",
+                                    "weight":"20kg",
+                                    "price":"baht",
+                                    "company":""
+                                },
+                        "id":"",
+                        "name":"apple",
+                        "warehousename":"fresh warehouse",
+                        "zone":"a",
+                        "row":1,
+                        "colum":3,
+                        "exp":"11/03/66"
+                    },
+                    {
+                        "detail":{
+                                    "category":"fresh",
+                                    "name":"salmon",
+                                    "length":"10M",
+                                    "width":"5M",
+                                    "height":"2M",
+                                    "weight":"20kg",
+                                    "price":"baht",
+                                    "company":""
+                                },
+                        "id":"",
+                        "name":"salmon",
+                        "warehousename":"fresh warehouse",
+                        "zone":"a",
+                        "row":1,
+                        "colum":3,
+                        "exp":"11/03/66"
+                    }
+            ],
+    "registeration":[
+                        {
+                        "username" : "bunyanut",
+                        "password" : "1234",
+                        "key" : "357ab19811cb3b3e544cd6b8ab49db6c"
+                        }
+                    ]
+}
